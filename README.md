@@ -306,13 +306,6 @@ Cada entidad tiene operaciones CRUD con los siguientes endpoints:
 
 ---
 
-
-
-### URL del Sistema:
-[**https://hotelmanager.example.com**](https://hotels-gamma-six.vercel.app/hotel-rooms)
-
----
-
 ## Figuras
 
 ### Diagrama de Base de Datos
