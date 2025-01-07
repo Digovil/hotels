@@ -20,7 +20,7 @@ El sistema desarrollado permite gestionar los hoteles de la compañía y asignar
 - **PHP 8.2** o superior.
 - **Composer** para gestión de dependencias del backend.
 - **Node.js v20.9.0** o superior y npm para el frontend.
-- **PostgreSQL 14** o superior.
+- **PostgreSQL 12**.
 
 ---
 
@@ -29,7 +29,7 @@ El sistema desarrollado permite gestionar los hoteles de la compañía y asignar
 ### 1. Configuración del Backend
 1. Clonar el repositorio:
    ```bash
-   git clone <repositorio>
+   git clone https://github.com/Digovil/hotels.git
    cd backend
    ```
 
